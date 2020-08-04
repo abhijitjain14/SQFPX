@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fn0202_OPUSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70cef385-86df-4f61-8a90-1e1dc874a635</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>208f4e91-0205-4c48-988e-9ee714d7ce31</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

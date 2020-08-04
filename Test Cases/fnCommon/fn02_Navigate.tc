@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate</description>
+   <name>fn02_Navigate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03892d1f-eb3d-4bb7-8bd3-5d3b785ba641</testCaseGuid>
+   <variable>
+      <defaultValue>'Lesson Learnt'</defaultValue>
+      <description></description>
+      <id>4c3506ce-25de-4df9-8812-27f0d6515e19</id>
+      <masked>false</masked>
+      <name>NavTo</name>
+   </variable>
+</TestCaseEntity>

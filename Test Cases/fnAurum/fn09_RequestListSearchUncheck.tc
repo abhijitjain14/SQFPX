@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>search request SR NO from request list</description>
+   <name>fn09_RequestListSearchUncheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4547f8c8-8e0d-491f-9f49-4aefd6ee331e</testCaseGuid>
+</TestCaseEntity>

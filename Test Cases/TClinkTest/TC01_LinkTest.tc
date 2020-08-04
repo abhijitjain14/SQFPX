@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_LinkTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1745e03-7f72-4311-8486-1386dfca8cd0</testCaseGuid>
+   <variable>
+      <defaultValue>'TC011'</defaultValue>
+      <description></description>
+      <id>1c5fbe88-eef9-4086-8e64-96a7e3154524</id>
+      <masked>false</masked>
+      <name>TestCaseID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>639b2183-b423-43ec-a225-a98a7a056ee4</id>
+      <masked>false</masked>
+      <name>Run</name>
+   </variable>
+</TestCaseEntity>

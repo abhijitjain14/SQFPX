@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fn07_Attachment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c615810-fe0f-44e0-aa80-22d5591e7b69</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>7f851ad9-bfcc-48a4-a085-cd1ca8d2a420</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

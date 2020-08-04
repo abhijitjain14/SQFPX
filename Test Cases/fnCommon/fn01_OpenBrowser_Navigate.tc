@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Browser and navigate to URL</description>
+   <name>fn01_OpenBrowser_Navigate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9200782-ed28-4f3f-a84a-8c65de6e6b3c</testCaseGuid>
+</TestCaseEntity>

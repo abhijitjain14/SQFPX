@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete incomplete from cart</description>
+   <name>fn_DeleteIncomplete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f6b5e55-4c28-4403-9508-8b81538094fb</testCaseGuid>
+</TestCaseEntity>

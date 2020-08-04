@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Plus</name>
+   <tag></tag>
+   <elementGuidId>c33eff4c-9098-48c8-aa96-748c57e671b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='submit_payment']/div/div/div/div/div[3]/div/div/div/span[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-plus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit_payment&quot;)/div[@class=&quot;swiper-container&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide&quot;]/div[@class=&quot;card-carousel single-product&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6 col-sm-3 pull-left&quot;]/div[@class=&quot;form-style&quot;]/div[@class=&quot;input-group quantity-input-group&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default btn-number&quot;]/span[@class=&quot;glyphicon glyphicon-plus&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='submit_payment']/div/div/div/div/div[3]/div/div/div/span[2]/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>

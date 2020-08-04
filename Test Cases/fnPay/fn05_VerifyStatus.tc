@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify status of payment</description>
+   <name>fn05_VerifyStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff90d5f1-498a-4360-958d-c9b7c4be338a</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>f48a14c6-d099-442a-b0dd-56e11ad9cca4</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

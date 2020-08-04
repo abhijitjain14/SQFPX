@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment method</description>
+   <name>fn04_MakePayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bca4121-90c1-47e3-bdc4-1895e5819a7b</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>9c6f12b5-fcc3-44af-8f80-27bcd8af6393</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

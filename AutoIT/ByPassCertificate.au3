@@ -1,0 +1,13 @@
+  Sleep(1000)
+ Send("{TAB}")
+ Sleep(1000)
+ Send("{TAB}")
+Sleep(1000)
+ Send("{TAB}")
+Sleep(1000)
+
+Send("{Enter}")
+Sleep(2000)
+Send("{TAB}")
+Sleep(2000)
+Send("{Enter}")

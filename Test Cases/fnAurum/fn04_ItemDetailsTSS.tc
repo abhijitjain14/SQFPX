@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>fill in Items Detail section</description>
+   <name>fn04_ItemDetailsTSS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9299244-7b1f-4436-8de8-e962ff8f8ec5</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>3a0acc74-515a-47d2-beaf-16b8d6ea1ecd</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Budgeted or Unbudgeted</description>
+   <name>fn03_SelectionofBudgetunBudget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9564f105-4689-408e-8db8-b9291b85d337</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>afc6690f-c658-46ab-a8ee-c45af816f0a3</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

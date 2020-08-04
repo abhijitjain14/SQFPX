@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Agree save and Submit</description>
+   <name>fn08_AgreeSaveSubmit</name>
+   <tag></tag>
+   <comment>sSRNO
+Take screenshot </comment>
+   <testCaseGuid>1a0fe567-f057-4696-815c-c46299187aa4</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>17325a32-8500-46a6-8664-2e3c2b814c3b</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

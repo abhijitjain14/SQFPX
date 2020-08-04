@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill in mandatory Billing Details section</description>
+   <name>fn05_BillingDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>024ad3f5-4642-49f4-a736-5027447fe22b</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>1e0719f1-0eb1-4dcc-af46-dbc74eb3e0f0</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

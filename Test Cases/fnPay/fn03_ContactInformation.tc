@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contact information</description>
+   <name>fn03_ContactInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6d1dfa-51e3-421a-a512-2bcd4c6c577c</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>6aff7bd5-22ec-470f-8557-b44bb86c3766</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>

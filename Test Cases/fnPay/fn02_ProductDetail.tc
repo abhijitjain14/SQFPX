@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter Product details</description>
+   <name>fn02_ProductDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3a1e896-b551-40a7-b1c6-d6c469473f92</testCaseGuid>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>319c4ee8-c9bd-4db3-b6ad-1d781f30fcd9</id>
+      <masked>false</masked>
+      <name>mp</name>
+   </variable>
+</TestCaseEntity>
