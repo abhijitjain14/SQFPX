@@ -23,5 +23,5 @@ WebUI.callTestCase(findTestCase('fnPay/fn03_ContactInformation'), [('mp') : [:]]
 
 WebUI.callTestCase(findTestCase('fnPay/fn04_MakePayment'), [('mp') : [:]], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('fnPay/fn05_VerifyStatus'), [('mp') : [:]], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('fnPay/fn05_VerifyStatus'), [('mp') : [:]], FailureHandling.STOP_ON_FAILURE)
 
