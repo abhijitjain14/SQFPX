@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://pww.skill-staging.petronas.com.my/pages/auth/login'</initValue>
+      <initValue>'https://sandbox.senangpay.my/payment/109157708231331'</initValue>
       <name>SiteURL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'ShareExperience'</initValue>
+      <initValue>'Paynet'</initValue>
       <name>ExcelSheetName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

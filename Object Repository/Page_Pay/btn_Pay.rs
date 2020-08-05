@@ -6,20 +6,19 @@
    <elementGuidId>54cf586e-33b5-4fc9-b3b7-e027a7f8cde0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'button' and (text() = '
                                     Pay RM 40.00
                                 ' or . = '
                                     Pay RM 40.00
                                 ')]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

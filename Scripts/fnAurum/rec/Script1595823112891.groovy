@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('Page_Pay/txt_Phone'), '0102687610')
 
 WebUI.setText(findTestObject('Page_Pay/txt_AdditionalInformation'), 'automation testing activity')
 
-//WebUI.click(findTestObject('Page_Pay/label'))
+//WebUI.click(findTestObject('Page_Pay/BSNBank'))
 WebUI.click(findTestObject('Page_Pay/Maybank'))
 
 WebUI.click(findTestObject('Page_Pay/btn_Pay'))

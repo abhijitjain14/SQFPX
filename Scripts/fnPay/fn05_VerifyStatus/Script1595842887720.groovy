@@ -17,6 +17,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.verifyElementText(findTestObject('Page_senangPay/ver_Status'), mp['VerifyStatus'])
 //Successful
+Thread.sleep(5000);
 
 def sSRNO = WebUI.getText(findTestObject('Page_senangPay/p_TRX Ref'))
 WebUI.comment(sSRNO)

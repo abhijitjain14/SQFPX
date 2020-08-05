@@ -26,9 +26,13 @@ switch(mp['InternetBankingFPX']) {
 		break;
 		
 		case 'BSN':
-		WebUI.click(findTestObject('Page_Pay/label'))
+		WebUI.click(findTestObject('Page_Pay/BSNBank'))
+		break;
 		
-				
+		case 'Hong Leong':
+	WebUI.click(findTestObject('Page_Pay/Maybank'))
+		
+		
 		break;
 	default:
 	

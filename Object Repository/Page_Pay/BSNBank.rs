@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label</name>
+   <name>BSNBank</name>
    <tag></tag>
    <elementGuidId>3fcd7aef-96a5-4ffe-982a-70573a925ea0</elementGuidId>
    <selectorCollection>
