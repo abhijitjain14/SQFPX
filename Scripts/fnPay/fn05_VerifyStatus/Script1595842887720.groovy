@@ -16,6 +16,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 WebUI.verifyElementText(findTestObject('Page_senangPay/ver_Status'), mp['VerifyStatus'])
+
 //Successful
 Thread.sleep(5000);
 
